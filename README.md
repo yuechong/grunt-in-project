@@ -1,8 +1,10 @@
 # grunt-in-project
-this is a simple demo using grunt
+这是一个简单的grunt使用demo在项目中
 
-command:
+1.安装package
 
-npm install
+npm-install
+
+2.运行grunt，自动监听文件是否改变并运行任务
 
 grunt
